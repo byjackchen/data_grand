@@ -114,3 +114,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+# ignore local IDE settings
+*.code-workspace
+settings.json
